@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-23T23:41:05 IST" name="Default suite" finished-at="2023-12-23T23:42:09 IST" duration-ms="64175">
+    <groups>
+    </groups>
+    <test started-at="2023-12-23T23:41:05 IST" name="Default test" finished-at="2023-12-23T23:42:09 IST" duration-ms="64175">
+      <class name="Practice.Facebook">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Practice.Facebook@52719fb6]" started-at="2023-12-23T23:41:05 IST" name="initialize" finished-at="2023-12-23T23:41:14 IST" duration-ms="8628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="accountLogin()[pri:0, instance:Practice.Facebook@52719fb6]" started-at="2023-12-23T23:41:14 IST" name="accountLogin" finished-at="2023-12-23T23:41:30 IST" duration-ms="16581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountLogin -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Practice.Facebook@52719fb6]" started-at="2023-12-23T23:41:30 IST" name="initialize" finished-at="2023-12-23T23:41:37 IST" duration-ms="6460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="facebookLogin()[pri:0, instance:Practice.Facebook@52719fb6]" started-at="2023-12-23T23:41:37 IST" name="facebookLogin" finished-at="2023-12-23T23:41:58 IST" duration-ms="20775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookLogin -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Practice.Facebook@52719fb6]" started-at="2023-12-23T23:41:58 IST" name="initialize" finished-at="2023-12-23T23:42:09 IST" duration-ms="11401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="screenShot()[pri:1, instance:Practice.Facebook@52719fb6]" started-at="2023-12-23T23:42:09 IST" name="screenShot" finished-at="2023-12-23T23:42:09 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+      </class> <!-- Practice.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
